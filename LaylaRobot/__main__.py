@@ -74,9 +74,23 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hello, I'M Layla
-`ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ! ʜɪᴛ` /help
-Maintained by @HEROGAMERS1 ❤
+Hello {}, 
+my name is {}! 
+
+if you have any questions about how to use me please give me /help.....
+
+I am a Group Management bot maintained by  [Mukesh Solanki](t.me/mkspali).
+
+I am an official Group Management bot for this channel @RMCMG
+
+Go to My Telegram Channel an Subscribe it ----> @RMCMG
+
+Thank You !!!!!
+
+For more commands click /help...
+
+**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
+
 """
 
 buttons = [
@@ -87,13 +101,13 @@ buttons = [
     [
         InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="layla_"),
         InlineKeyboardButton(
-            text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="🛡️Creator🛡️", url=f"https://t.me/mkspali"
         ),
     ],
     [
-        InlineKeyboardButton(text="ʟᴏɢꜱ", url=f"https://t.me/laylalogs"),
+        InlineKeyboardButton(text="ʟᴏɢꜱ", url=f"https://t.me/RMCMG"),
         InlineKeyboardButton(
-            text="ꜰᴇᴅᴇʀᴀᴛɪᴏɴ", url=f"https://t.me/AntiRippingOrganization/410"
+            text="ꜰᴇᴅᴇʀᴀᴛɪᴏɴ", url=f"https://t.me/RMCMG"
         ),
     ],
     [
