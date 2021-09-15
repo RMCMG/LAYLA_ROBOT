@@ -25,4 +25,4 @@ LAYLA ROBOT ɪs ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇʀ ʙᴏᴛ 
 
 ## Telegram Bot
 
-<a href="https://t.me/RMCMG_LAYLA_ROBOT"> <img src="https://img.shields.io/badge/RMCMG%20_%20LAYLA%20_%20ROBOT-orange" /> <img src="https://img.shields.io/badge/Best-Bot-ff69b4" /> </a>
+<a href="https://t.me/RMCMG_LAYLA_ROBOT"> <img src="https://img.shields.io/badge/RMCMG%20_%20LAYLA%20_%20ROBOT-blue" /> <img src="https://img.shields.io/badge/Best-Bot-ff69b4" /> </a>
